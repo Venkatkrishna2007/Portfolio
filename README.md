@@ -31,17 +31,14 @@ I aspire to innovate and solve complex real-world problems using technology.
 ---
 
 ## 📂 Project Structure
-Portfolio/
-│── index.html
-│── style.css
-│── script.js
-│── Venkat_resume.pdf
-│── images/
-│ └── profile.jpg
+<img width="253" height="272" alt="image" src="https://github.com/user-attachments/assets/09d3cfd9-28c0-4174-a4a5-4d9a2f77555a" />
 
----
-<img width="1911" height="958" alt="image" src="https://github.com/user-attachments/assets/8dc98cbe-120e-4050-8651-61187b4b3172" />
-<img width="1906" height="958" alt="image" src="https://github.com/user-attachments/assets/8d3242f8-8b7b-4c36-8214-9e34efe67ae1" />
+
+<img width="1910" height="968" alt="image" src="https://github.com/user-attachments/assets/453eecf7-4f57-4d50-bd24-68403289ef3c" />
+<img width="1919" height="977" alt="image" src="https://github.com/user-attachments/assets/f1d75e0e-bdd4-437f-a8c7-b6d1db36bc44" />
+<img width="1901" height="971" alt="image" src="https://github.com/user-attachments/assets/9355ac1f-5ca4-464c-b39f-f0002a657653" />
+<img width="1917" height="547" alt="image" src="https://github.com/user-attachments/assets/b2fb6a15-d192-4225-a0e0-f176caea2fa4" />
+
 
 
 
